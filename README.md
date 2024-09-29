@@ -2,7 +2,10 @@ Informatika Ukwms | file CAL yang dicantumkan berupa .Zip yang berisi semua baha
 Website project CAL by Informatika UKWMS | Caren, Audrey, Lita
 
 Tangkapan layar di bawah ini menunjukkan tombol fitur-fitur yang ada.
-![fitur](https://github.com/user-attachments/assets/6d620b14-d12a-4207-a4a7-edf52fea2314)
+
+![fitur1](https://github.com/user-attachments/assets/2a6652dc-5a91-45cf-9ce7-0b8be67d77bf)
+
+
 1. Bagian Wishlist. Jika diklik, maka pengguna akan menuju ke halaman wishlist. Wishlist sendiri digunakan untuk menandai produk yang disuka
 2. Bagian Cart. Jika diklik, maka pengguna akan menuju ke halaman keranjang. Cart sendiri digunakan untuk menambahkan produk ke dalam keranjang
 3. Bagian Account. Jika diklik, maka pengguna akan menuju ke halaman akun pribadi
