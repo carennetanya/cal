@@ -18,8 +18,37 @@ Tangkapan layar di bawah ini menunjukkan tombol fitur-fitur yang ada.
 4. About. Jika diklik, maka pengguna akan menuju ke halaman penjelasan mengenai CAL 
 5. product. Jika diklik maka pengguna akan menuju ke halaman produk dari CAL
    
+Rekaman layar di bawah ini merupakan bagian judul.
+
+https://github.com/user-attachments/assets/c04c77fd-661b-44fa-9874-c9c85bdefbad
+
 Rekaman layar di bawah ini merupakan fitur untuk menuju ke slide selanjutnya
 
-https://github.com/user-attachments/assets/e0c6c1d2-3397-4973-90e9-4d535e9cfe54
+https://github.com/user-attachments/assets/a4389e61-ddc3-448f-9ff7-e2a4a835f278
+
+Rekaman layar di bawah ini merupakan fitur dari bagian footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
