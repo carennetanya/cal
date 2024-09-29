@@ -27,7 +27,8 @@ Buy. Jika diklik memasukkan produk yang pengguna pilih ke dalam keranjang, atau 
    
 Rekaman layar di bawah ini merupakan bagian judul.
 
-https://github.com/user-attachments/assets/c04c77fd-661b-44fa-9874-c9c85bdefbad
+https://github.com/user-attachments/assets/3bd2c706-2daa-4b1c-a32b-27f3466e4290
+
 
 Rekaman layar di bawah ini merupakan fitur untuk menuju ke slide selanjutnya
 
